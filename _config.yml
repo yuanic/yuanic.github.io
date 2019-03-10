@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: icon-python
+    - name: icon-google
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: icon-database
+    - name: icon-mysql-alt
   desc: Digital marketing professional working in the programmatic and ad tech space. Specializing in audience management (DMP), data management, analysis and visualization. Interested in product innovation and data strategy.  # Describe yourself.
 
 # comment
