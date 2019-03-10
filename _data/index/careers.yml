@@ -15,43 +15,43 @@
   icon: fa-plus-square
 
 - name:
-    detail: Amnet Group (Dentsu Aegis Network)
+    detail: Analytics Lead (SEA Regional Team)
     i18n: company_b
   desc:
-    detail: Singapore
+    detail: Amnet Group (Dentsu Aegis Network)
     i18n: company_b_desc
   date:
     detail: Jul. 2016
     i18n: company_b_date
   job:
-    detail: Analytics Lead (SEA Regional Team)
+    detail: Singapore
     i18n: company_b_job
   icon: fa-plus-square
   
 - name:
-    detail: Amnet Group (Dentsu Aegis Network)
+    detail: Business Analyst (SEA Regional Team)
     i18n: company_c
   desc:
-    detail: Singapore
+    detail: Amnet Group (Dentsu Aegis Network)
     i18n: company_c_desc
   date:
     detail: Jul. 2016
     i18n: company_c_date
   job:
-    detail: Business Analyst (SEA Regional Team)
+    detail:  Singapore
     i18n: company_c_job
   icon: fa-plus-square
 
 - name:
-    detail: W Singapore (Starwood Hotels & Resorts)
+    detail: Revenue Analyst
     i18n: company_d
   desc:
-    detail: Singapore
+    detail: W Singapore (Starwood Hotels & Resorts)
     i18n: company_d_desc
   date:
     detail: Jan. 2013
     i18n: company_d_date
   job:
-    detail: Revenue Analyst
+    detail: Singapore 
     i18n: company_d_job
   icon: fa-plus-square
