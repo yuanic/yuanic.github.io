@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Amnet Group (Dentsu Aegis Network)
+    detail: Analytics Lead (Global Team)
     i18n: company_a
   desc:
-    detail: San Francisco
+    detail: Amnet Group (Dentsu Aegis Network)
     i18n: company_a_desc
   date:
     detail: Sep. 2018
     i18n: company_a_date
   job:
-    detail: Analytics Lead (Global Team)
+    detail: San Francisco
     i18n: company_a_job
   icon: fa-plus-square
 
