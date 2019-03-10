@@ -1,5 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Practicum Team
+    i18n: company_f
+  desc:
+    detail: Lucky Brand
+    i18n: company_f_desc
+  date:
+    detail: Sep. 2018
+    i18n: company_f_date
+  job:
+    detail: San Francisco
+    i18n: company_f_job
+  icon: fa-plus-square
+
 - name:
     detail: Analytics Lead (Global Team)
     i18n: company_a
