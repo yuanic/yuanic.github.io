@@ -5,8 +5,8 @@
   i18n: jalpc
   gh_user: jarrekk
   repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  img: https://raw.githubusercontent.com/yuanic/yuanic.github.io/master/static/assets/img/landing/beyond_designations_icon.PNG
+  desc: What do desginations really mean? Does the title really matter? Explore how well we can classify different roles based on their job description.
 
 - name: Python
   i18n: cpython
