@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: https://raw.githubusercontent.com/yuanic/yuanic.github.io/master/static/assets/img/landing/beyond_designations_icon.PNG
-  desc: What do desginations really mean? Does the title really matter? Explore how well we can classify different roles based on their job description.
+#- name: Jalpc
+#  i18n: jalpc
+#  gh_user: jarrekk
+#  repo: Jalpc
+#  img: https://raw.githubusercontent.com/yuanic/yuanic.github.io/master/static/assets/img/landing/beyond_designations_icon.PNG
+#  desc: What do desginations really mean? Does the title really matter? Explore how well we can classify different roles based on their job description.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+#- name: Python
+#  i18n: cpython
+#  gh_user: python
+#  repo: cpython
+#  img: /static/assets/img/landing/python.png
+#  desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+#- name: Google
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+#  desc: This is another project.
