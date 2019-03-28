@@ -5,7 +5,7 @@ date:   2019-01-29
 desc: "Pushing the Productivity Frontier Forward"
 keywords: "productivity,efficiency, effectiveness, teamwork, meetings "
 categories: [HTML]
-tags: [Jalpc,Jekyll]
+tags: [productivity,efficiency]
 icon: icon-html
 ---
 *This blogpost was written as part of the coursework for my MSBA Program at UC Davis to reflect on factors that drive team productivity in the context of the practicum project*
