@@ -9,7 +9,7 @@ tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
 
-#Pushing the Productivity Frontier Forward
+# Pushing the Productivity Frontier Forward
 
 *This blogpost was written as part of the coursework for my MSBA Program at UC Davis to reflect on factors that drive team productivity in the context of the practicum project*
 
@@ -19,7 +19,9 @@ To really understand how we can improve productivity, we first need to decompose
 
 Based on the original concept, Porter describes productivity to be driven by a buy value (Y-axis) and an efficient cost of labor (X-axis). In a consulting type of setting, we can imagine our goods to be the value of insights and any analytics products that is provided to our clients, while the cost would refer to the billable hours being put into delivering the output. Productivity then can be thought of as a combination of effectiveness and efficiency. Doing the right thing in the right way to optimize the outcome.
 
+<p align="center">
 ![alt text](https://1.bp.blogspot.com/-y4IdVddbDRM/XFCsUr6zDsI/AAAAAAAAAD0/OmaW6Di1sUcMZdnK1G1J18_z3S5eeWhxQCLcBGAs/s400/ppc.png)
+</p>
 
 To provide some context, I find it easier to think about the work we deliver bench marked against a typical week. An improvement in productivity would then mean that we can provide our client with the same level of output using a shorter amount of time in a week, or that we can provide more value to our client using the same number of working hours in a week.
 
@@ -33,12 +35,11 @@ Another area where we can do less and obsess is in presenting effective power po
 
 **Improving Efficiency (X-Axis) – Reduce costly meetings**
 
-“A meeting is a place where you keep the minutes and throw away the hours.” 
-- Thomas Kayser (Author of Building Team Power)
+*“A meeting is a place where you keep the minutes and throw away the hours.”  by Thomas Kayser (Author of Building Team Power)*
 
 Inc, an online meeting company, estimates that over $37billion dollars are spent in a year on unproductive meetings. It is also not uncommon to hear about people dreading to attend a meeting that they find pointless. That is not to say though that there should be no meetings. There needs to be a ground for communication, coordination and brainstorming so that we can reap the benefits of operating as a team.
-"We meet because people holding different jobs have to cooperate to get a specific task done. We meet because the knowledge and experience needed in a specific situation are not available in one head, but have to be pieced together out of the knowledge and experience of several people." 
--  Peter Drucker (Management Consultant and Author)
+
+*"We meet because people holding different jobs have to cooperate to get a specific task done. We meet because the knowledge and experience needed in a specific situation are not available in one head, but have to be pieced together out of the knowledge and experience of several people." by Peter Drucker (Management Consultant and Author)*
 
 How can than can we ensure productive meetings? There are many different articles that provide a list of tips to ensure a more efficient meeting. Among which, 2 that I strongly identify with based on my practicum experience in the a last few months is to meet face to face as well as to leave a meeting with clear action points to follow up. These were 2 points that our team has done more of this quarter and we have certainly seen a boost in our efficiency. That said, our weekly meetings do run on the longer side. Many online sources suggest keeping meetings short, with one article saying 15 mins and another 22 mins. With our meetings now taking up to 2 hours, there seems to be some opportunity here to further optimize. Given that the nature of our meetings involves much brainstorming, I do not think that a 15-minute session would suffice. Perhaps we could consider a hybrid model where we allocate a fix amount of time for brainstorming, and another 15 minutes for additional updates and delegation of tasks.
 
