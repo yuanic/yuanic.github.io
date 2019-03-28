@@ -20,7 +20,7 @@ To really understand how we can improve productivity, we first need to decompose
 Based on the original concept, Porter describes productivity to be driven by a buy value (Y-axis) and an efficient cost of labor (X-axis). In a consulting type of setting, we can imagine our goods to be the value of insights and any analytics products that is provided to our clients, while the cost would refer to the billable hours being put into delivering the output. Productivity then can be thought of as a combination of effectiveness and efficiency. Doing the right thing in the right way to optimize the outcome.
 
 <p align="center">
-![alt text](https://1.bp.blogspot.com/-y4IdVddbDRM/XFCsUr6zDsI/AAAAAAAAAD0/OmaW6Di1sUcMZdnK1G1J18_z3S5eeWhxQCLcBGAs/s400/ppc.png)
+<img src="https://1.bp.blogspot.com/-y4IdVddbDRM/XFCsUr6zDsI/AAAAAAAAAD0/OmaW6Di1sUcMZdnK1G1J18_z3S5eeWhxQCLcBGAs/s400/ppc.png">
 </p>
 
 To provide some context, I find it easier to think about the work we deliver bench marked against a typical week. An improvement in productivity would then mean that we can provide our client with the same level of output using a shorter amount of time in a week, or that we can provide more value to our client using the same number of working hours in a week.
