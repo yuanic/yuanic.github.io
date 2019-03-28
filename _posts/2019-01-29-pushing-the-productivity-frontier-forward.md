@@ -3,13 +3,15 @@ layout: post
 title:  "Pushing the Productivity Frontier Forward"
 date:   2019-01-29
 desc: "Pushing the Productivity Frontier Forward"
-keywords: "productivity,efficiency, teamwork, "
+keywords: "productivity,efficiency, effectiveness, teamwork, meetings "
 categories: [HTML]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
 
-Pushing the Productivity Frontier Forward
+#Pushing the Productivity Frontier Forward
+
+*This blogpost was written as part of the coursework for my MSBA Program at UC Davis to reflect on factors that drive team productivity in the context of the practicum project*
 
 The starting point of what makes a great team is often the composition of people. Having the right mix of people with complementary personalities and skill sets makes a more promising team. Many times, however, we find ourselves placed in ready formed teams. Our practicum team is one example and it will likely be the case as well when you enter the work force. Given the circumstances then, how can we improve the productivity of our teams?
 
@@ -17,9 +19,11 @@ To really understand how we can improve productivity, we first need to decompose
 
 Based on the original concept, Porter describes productivity to be driven by a buy value (Y-axis) and an efficient cost of labor (X-axis). In a consulting type of setting, we can imagine our goods to be the value of insights and any analytics products that is provided to our clients, while the cost would refer to the billable hours being put into delivering the output. Productivity then can be thought of as a combination of effectiveness and efficiency. Doing the right thing in the right way to optimize the outcome.
 
+![alt text](https://1.bp.blogspot.com/-y4IdVddbDRM/XFCsUr6zDsI/AAAAAAAAAD0/OmaW6Di1sUcMZdnK1G1J18_z3S5eeWhxQCLcBGAs/s400/ppc.png)
+
 To provide some context, I find it easier to think about the work we deliver bench marked against a typical week. An improvement in productivity would then mean that we can provide our client with the same level of output using a shorter amount of time in a week, or that we can provide more value to our client using the same number of working hours in a week.
 
-Improving Effectiveness (Y-Axis) - Do less and obsess
+**Improving Effectiveness (Y-Axis) - Do less and obsess**
 
 An idea that could be borrowed from Morten Hansen’s book, Great at Work, is to do less and obsess. In his research on 5000 participants, it was found that the group that performed worst was the one who took on multiple priorities. Instead of spreading yourself out thinly, it is suggested that it is better to focus on fewer tasks, and then obsess about making them great!
 
@@ -27,7 +31,7 @@ For the practicum with Lucky, we were presented with 3 areas of focus, store clu
 
 Another area where we can do less and obsess is in presenting effective power point slides. Comparing the length of our weekly update slides from the first few weeks of our practicum to the recent ones, we have certainly reduced the number of slides being created as we now have a clear goal of refining our method and not just regurgitating every piece of information that we had created a chart or table for. One way that our team can continue to focus on creating compelling slides is to reflect on what slides were quickly passed on in a meeting, and which ones elicited meaningful discussions with our MIP.
 
-Improving Efficiency (X-Axis) – Reduce costly meetings
+**Improving Efficiency (X-Axis) – Reduce costly meetings**
 
 “A meeting is a place where you keep the minutes and throw away the hours.” 
 - Thomas Kayser (Author of Building Team Power)
