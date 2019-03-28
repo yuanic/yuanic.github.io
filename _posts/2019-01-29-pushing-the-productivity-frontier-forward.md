@@ -8,9 +8,6 @@ categories: [HTML]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
-
-# Pushing the Productivity Frontier Forward
-
 *This blogpost was written as part of the coursework for my MSBA Program at UC Davis to reflect on factors that drive team productivity in the context of the practicum project*
 
 The starting point of what makes a great team is often the composition of people. Having the right mix of people with complementary personalities and skill sets makes a more promising team. Many times, however, we find ourselves placed in ready formed teams. Our practicum team is one example and it will likely be the case as well when you enter the work force. Given the circumstances then, how can we improve the productivity of our teams?
